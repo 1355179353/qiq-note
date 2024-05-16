@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,O as n}from"./chunks/framework.16bbc80c.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"htmlnote/html5.md","filePath":"htmlnote/html5.md"}'),l={name:"htmlnote/html5.md"},o=n("",18),e=[o];function p(r,d,c,i,D,F){return s(),a("div",null,e)}const u=t(l,[["render",p]]);export{h as __pageData,u as default};

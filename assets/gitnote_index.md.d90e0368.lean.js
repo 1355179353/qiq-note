@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,O as i}from"./chunks/framework.16bbc80c.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gitnote/index.md","filePath":"gitnote/index.md"}'),a={name:"gitnote/index.md"},s=i("",7),r=[s];function c(n,l,p,d,g,b){return e(),o("div",null,r)}const _=t(a,[["render",c]]);export{m as __pageData,_ as default};

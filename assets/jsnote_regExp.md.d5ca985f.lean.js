@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,O as l}from"./chunks/framework.16bbc80c.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"jsnote/regExp.md","filePath":"jsnote/regExp.md"}'),p={name:"jsnote/regExp.md"},o=l("",2),e=[o];function c(r,t,F,D,y,C){return n(),a("div",null,e)}const b=s(p,[["render",c]]);export{i as __pageData,b as default};

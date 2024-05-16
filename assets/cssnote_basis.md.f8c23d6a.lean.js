@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,O as l}from"./chunks/framework.16bbc80c.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cssnote/basis.md","filePath":"cssnote/basis.md"}'),p={name:"cssnote/basis.md"},e=l("",10),r=[e];function c(t,i,o,b,C,A){return n(),a("div",null,r)}const y=s(p,[["render",c]]);export{m as __pageData,y as default};
